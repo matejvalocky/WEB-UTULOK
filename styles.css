@@ -41,7 +41,7 @@ body{
     position: absolute;
     /* background-color: black; */
     /* opacity: 50%; */
-    background-image: url(./img/20ku6/2022-apríl-22---banner-dog-05-ad-size.JPG);
+    background-image: url(./img/20ku6/banner-dog-05.JPG);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -50,6 +50,31 @@ body{
     
     
     
+}
+
+#nekupuj{
+    width: 300px;
+    height: 300px;
+    background-image: url(./img/nekupuj.png);
+    top: -100px;
+    margin-left: 1150px;
+    position: absolute;
+    transform: scale(0.55);
+    
+}
+
+.bannerText{
+    /* background-color: orange; */
+    width: 400px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 30px;
+    line-height: 55px;
+    position: absolute;
+    margin-top: 20px;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
 }
 
 
@@ -205,7 +230,7 @@ body{
     top: 615px;
     left: 232px;
     top: 840px;
-    left: 50%;
+    left: 51.5%;
     margin-left:-700px;/* half width*/
     margin-top:-197.5px;/* half height*/
     
