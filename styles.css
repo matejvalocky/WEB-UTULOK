@@ -190,3 +190,48 @@ body{
 .nadpisSekcie > h1{
     margin-top: 3px;
 }
+
+.wrapper{
+    width: 1400px;
+    height: 395px;
+    margin: 0 auto;
+    /* background-color: red; */
+    position: absolute;
+    top: 615px;
+    left: 232px;
+    
+}
+
+.stvrtina{
+    float: left;
+    width: 24.85%;
+    height: 350px;
+    text-align: center;
+    /* border: 1px black solid; */
+    transform: scale(0.95);
+    border-radius: 50%;
+}
+
+.galleryImg1{
+    background-image: url(./img/gallery/fotka1.jpg);
+    
+}
+
+.galleryImg2{
+    background-image: url(./img/gallery/fotka2.jpg);
+    
+
+}
+
+.galleryImg3{
+    background-image: url(./img/gallery/fotka3.png);
+    
+
+}
+
+
+.galleryImg4{
+    background-image: url(./img/gallery/fotka4.png);
+    
+
+}
