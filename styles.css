@@ -17,7 +17,11 @@ body{
 }
 
 .menu{
-    min-width: 850px;
+    width: 870px;
+    position: absolute;
+    float: right;
+    /* border: 1px red solid; */
+    left: 320px;
 }
 
 .wrapper{
@@ -40,7 +44,7 @@ body{
 
 #header{
     
-    max-width: 1200px;
+    width: 100%;
     height: 120px;
     background-color: #fffc9c;
     margin: 0;
@@ -66,7 +70,7 @@ body{
 }
 
 #header ul li{
-    float: left;
+    float: right;
     font-weight: bold;
     padding: 48px 25px;
     font-size: 15px;
