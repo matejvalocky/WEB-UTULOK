@@ -35,14 +35,21 @@ body{
     width: 100%;
     height: 576px;
     /* border: 1px red solid; */
-    margin: 0 auto;
+    margin: auto;
     position: absolute;
     /* background-color: black; */
     /* opacity: 50%; */
-    background-image: url(./img/20ku6/banner-dog-05.JPG);
+    background-image: url(./img/20ku6/2022-apríl-22---banner-dog-05-ad-size.JPG);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    transform: scale(1.0);
+    
     
     
 }
+
+
 
 .about{
     width: 1200px;
