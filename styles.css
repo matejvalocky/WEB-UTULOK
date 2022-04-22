@@ -19,10 +19,7 @@ body{
     left: 320px;
 }
 
-.wrapper{
-    min-width: 1200px;
-    height: 1000px;
-}
+
 
 .banner{
     top: 160px;
@@ -38,6 +35,26 @@ body{
     
 }
 
+.about{
+    width: 1200px;
+    height: 500px;
+    background-color: rgb(255, 192, 75);
+    margin: 0 auto;
+    margin-top: 635px;
+    box-shadow: 10px 10px 8px #888888;
+}
+
+.aboutText > h1 {
+    color: rgb(75, 75, 75);
+    display: block;
+    /* border: 1px red solid; */
+    padding-top: 20px;
+    padding-left: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    border-bottom: 5px red solid;
+}
+
 
 
 /* HEADER MENU */
@@ -47,7 +64,7 @@ body{
     
     width: 100%;
     height: 120px;
-    background-color: turquoise ;
+    background-color: #389cfc ;
     padding: 0;
     position: absolute;
     top: 20px;
@@ -71,11 +88,11 @@ body{
 }
 
 #header ul li{
-    float: right;
+    float: left;
     font-weight: bold;
     padding: 48px 25px;
     font-size: 15px;
-    color: rgb(31, 0, 145);
+    color: whitesmoke;
 
 }
 
@@ -114,7 +131,7 @@ body{
 .topHeader{
     width: 100%;
     height: 20px;
-    background-color: rgb(255, 136, 0);
+    background-color: #1084fc;
     position: absolute;
 }
 
