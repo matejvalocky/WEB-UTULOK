@@ -6,6 +6,8 @@ body{
     padding: 0;
     margin: 0;
     background-image: url(./img/texture.jpg);
+    /* background-repeat: no-repeat; */
+    background-attachment: fixed;
 }
 
 
@@ -19,6 +21,13 @@ body{
     left: 320px;
 }
 
+#fixedMenu{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+
 
 
 .banner{
@@ -30,21 +39,28 @@ body{
     position: absolute;
     /* background-color: black; */
     /* opacity: 50%; */
-    background-image: url(./img/20ku6/banner-dog-04.JPG);
-    box-shadow: 10px 10px 8px #888888;
+    background-image: url(./img/20ku6/banner-dog-05.JPG);
+    
     
 }
 
 .about{
     width: 1200px;
-    height: 500px;
-    background-color: rgb(255, 192, 75);
+    height: 700px;
+    background-color: whitesmoke;
     margin: 0 auto;
-    margin-top: 635px;
-    box-shadow: 10px 10px 8px #888888;
+    position: relative;
+    margin-top: 837px;
+
+    
+    
+    
+   
+    
+    
 }
 
-.aboutText > h1 {
+.aboutText h1 {
     color: rgb(75, 75, 75);
     display: block;
     /* border: 1px red solid; */
@@ -52,7 +68,7 @@ body{
     padding-left: 20px;
     text-align: center;
     text-transform: uppercase;
-    border-bottom: 5px red solid;
+   
 }
 
 
@@ -74,7 +90,7 @@ body{
     /* opacity: 70%; */
     position: relative;
     margin: 0 auto;
-    box-shadow: 10px 10px 8px #888888;
+    
 }
 
 #header ul{
@@ -133,6 +149,37 @@ body{
     height: 20px;
     background-color: #1084fc;
     position: absolute;
+    box-shadow: 0px 9px 14px #888888;
+}
+
+.topHeader2{
+    width: 100%;
+    height: 20px;
+    background-color: #1084fc;
+    position: absolute;
+    /* box-shadow: 0px 9px 14px #888888; */
+    margin-top: -77px;
+    
 }
 
 
+.boxShadow{
+    box-shadow: 0px 9px 14px #888888;
+}
+
+.nadpisSekcie{
+    width: 100%;
+    height: 50px;
+    background-color: orange;
+    margin-top: 340px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: -57px;
+    position: absolute;
+    
+
+}
+
+.nadpisSekcie > h1{
+    margin-top: 3px;
+}
