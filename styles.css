@@ -9,12 +9,7 @@ body{
 }
 
 
-#sideHeader{
-    width: 100%;
-    margin: 0 auto;
-    height: 140px;
-    background-color: #fffc9c ;
-}
+
 
 .menu{
     width: 870px;
@@ -38,7 +33,8 @@ body{
     position: absolute;
     /* background-color: black; */
     /* opacity: 50%; */
-    background-image: url(./img/20ku6/banner-dog-02.JPG);
+    background-image: url(./img/20ku6/banner-dog-04.JPG);
+    box-shadow: 10px 10px 8px #888888;
     
 }
 
@@ -51,7 +47,7 @@ body{
     
     width: 100%;
     height: 120px;
-    background-color: #fffc9c;
+    background-color: turquoise ;
     padding: 0;
     position: absolute;
     top: 20px;
@@ -61,6 +57,7 @@ body{
     /* opacity: 70%; */
     position: relative;
     margin: 0 auto;
+    box-shadow: 10px 10px 8px #888888;
 }
 
 #header ul{
@@ -78,7 +75,7 @@ body{
     font-weight: bold;
     padding: 48px 25px;
     font-size: 15px;
-    color: rgb(126, 126, 126);
+    color: rgb(31, 0, 145);
 
 }
 
@@ -102,7 +99,7 @@ body{
     top: 23px;
     font-weight: bold;
     font-size: 23px;
-    color: orangered;
+    color: rgb(0, 0, 0);
 }
 
 .headerLogo{
