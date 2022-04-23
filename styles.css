@@ -1,13 +1,16 @@
 
 
 body{
-    /* background-image: url(./img/texture.jpg); */
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding: 0;
     margin: 0;
-    background-image: url(./img/texture.jpg);
-    /* background-repeat: no-repeat; */
+    background-color: #d8ccc4;
+    background-image: url(./img/backgound-dog-png.png);
+    background-repeat: no-repeat;
     background-attachment: fixed;
+    background-size: cover;
+    
+
 }
 
 
@@ -88,6 +91,7 @@ body{
     margin: 0 auto;
     position: relative;
     margin-top: 736px;
+    border-bottom: 10px red solid;
 }
 
 .aboutSection {
@@ -159,6 +163,8 @@ body{
 .volnaSekcia{
     width: 100%;
     height: 700px;
+    border-bottom: #389cfc 10px solid;
+    
     
     
 }
