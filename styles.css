@@ -86,14 +86,23 @@ body{
     margin: 0 auto;
     position: relative;
     margin-top: 1104px;
-
-    
-    
-    
-   
-    
-    
 }
+
+.aboutSection {
+    width: 600px;
+    height: 700px;
+    background-color: green;
+    float: left;
+}
+
+.aboutImg{
+    width: 600px;
+    height: 700px;
+    background-color: #389cfc;
+    float: right;
+}
+
+
 
 .aboutText h1 {
     color: rgb(75, 75, 75);
@@ -172,13 +181,22 @@ body{
 }
 
 .headerLogo{
-    width: 100px;
-    height: 80px;
-    position: absolute;
-    top: -5px;
-    transform: scale(0.8);
-    
+ width: 130px;
+ height: 130px;   
+ background-image: url(./img/utulok-logo.png);
+ transform: scale(0.20);
+ position: absolute;
+ margin-top: -43px;
+ margin-left: -40px;
 }
+
+.headerLogo:hover{
+    filter: invert(100%);
+}
+
+
+
+
 
 .topHeader{
     width: 100%;
