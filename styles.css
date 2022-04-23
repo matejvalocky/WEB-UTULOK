@@ -30,9 +30,6 @@ body{
     top: 0;
     width: 100%;
     z-index: 1;
-    
-
-    
 }
 
 
@@ -83,10 +80,17 @@ body{
 }
 
 .zarovnanieStred{
-    width: 1920px;
+    /* width: 1920px;
     margin-left: -960px;/* half width*/
+    /* left: 50%; */
+    /* position: relative; */
+    width: 3000px;
+    margin-left: -1200px;
     left: 50%;
     position: relative;
+    /* border: 1px red solid; */
+    
+
 }
 
 .about{
