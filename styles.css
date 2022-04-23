@@ -40,7 +40,7 @@ body{
 .banner{
     top: 151px;
     width: 100%;
-    height: 576px;
+    height: 575px;
     /* border: 1px red solid; */
     margin: auto;
     position: absolute;
@@ -82,7 +82,13 @@ body{
     text-transform: uppercase;
 }
 
-
+.zarovnanieStred{
+    width: 1920px;
+    margin-left: -960px;/* half width*/
+    left: 50%;
+    position: relative;
+    
+}
 
 .about{
     width: 100%;
@@ -91,7 +97,7 @@ body{
     margin: 0 auto;
     position: relative;
     margin-top: 736px;
-    border-bottom: 10px red solid;
+    /* border-bottom: 10px red solid; */
 }
 
 .aboutSection {
@@ -164,6 +170,7 @@ body{
     width: 100%;
     height: 700px;
     border-bottom: #389cfc 10px solid;
+     border-top: 10px red solid;
     
     
     
