@@ -128,7 +128,8 @@ body{
     height: 15px;
     background-color:#389cfc;
     padding: 0;
-    margin-top: -24px;
+    margin-top: -9px;
+    overflow: hidden;
 }
 
 
