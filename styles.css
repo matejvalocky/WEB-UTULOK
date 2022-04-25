@@ -97,13 +97,14 @@ body{
     /* border-bottom: 10px red solid; */
 }
 
-.aboutSection {
+#aboutSection {
     width: 542px;
     height: 1194px;
     background-color: #E0E5EB;
     float: left;
     margin-left: 25%;
     position: relative;
+    font-size: 30px;
     
 }
 
@@ -239,6 +240,13 @@ body{
 
 }
 
+#header ul li a{
+    
+    color: whitesmoke;
+    text-decoration: none;
+
+}
+
 #header ul li:hover{
     background-color: orangered;
     transition: all ease 0.2s;
@@ -247,6 +255,21 @@ body{
     
 
 }
+
+#header ul li a:hover{
+    transition: all ease 0.8s;
+    color: rgb(63, 63, 63);
+   /* border-radius: 50%; */ 
+}
+
+#header ul li a:not(hover){
+    color: whitesmoke;
+    transition: all ease 0.2s;
+}
+
+
+
+
 
 #header ul li:not(hover){
     transition: all ease 0.5s;
