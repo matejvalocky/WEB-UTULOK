@@ -196,19 +196,50 @@ body{
 
 #adopciaImg{
 background-image: url(./img/lovely2.jpg);
-width: 900px;
+width: 750px;
 height: 731px;
 float: left;
 position: absolute;
+
 }
 
 .adopciaWrapper{
-    width: 1920px;
+    width: 1400px;
     height: 731px;
     border: 1px red solid;
     margin: 0 auto;
+    position: relative;
 }
 
+#adopciaText{
+    position: absolute;
+    margin: 0 auto;
+    width: 630px;
+    height: 100%;
+    background-color: red;
+    margin-left: 770px;
+}
+
+#adopciaText > p {
+    font-size: 30px;
+    padding-left: 150px;
+    padding-right: 60px;
+    padding-bottom: 15px;
+    text-align: justify;
+}
+
+
+
+#nadpisAdopcia{
+    text-align: left;
+    color: rgb(0, 0, 0);
+    display: block;
+    /* border: 1px red solid; */
+    padding-top: 10px;
+    padding-left: 185px;
+    font-size: 60px;
+    margin-top: 20px;
+}
 
 
 
