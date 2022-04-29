@@ -196,7 +196,7 @@ body{
 
 #adopciaImg{
 background-image: url(./img/lovely2.jpg);
-width: 750px;
+width: 760px;
 height: 731px;
 float: left;
 position: absolute;
@@ -204,20 +204,23 @@ position: absolute;
 }
 
 .adopciaWrapper{
-    width: 1910px;
+
+    width: 1600px;
     height: 731px;
     /* border: 1px red solid; */
-    margin: 0 auto;
+    margin-left: 0px;
     position: relative;
+
 }
 
 #adopciaText{
     position: absolute;
     margin: 0 auto;
     width: 630px;
+    /* width: 40%; */
     height: 100%;
     /* background-color: red; */
-    margin-left: 1000px;
+    margin-left: 968px;
     
 }
 
@@ -227,6 +230,7 @@ position: absolute;
     padding-right: 60px;
     padding-bottom: 15px;
     text-align: justify;
+
     
 }
 
