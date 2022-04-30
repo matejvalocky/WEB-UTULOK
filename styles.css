@@ -194,69 +194,7 @@ body{
 
 }
 
-#adopciaImg{
-background-image: url(./img/lovely2.jpg);
-width: 760px;
-height: 731px;
-float: left;
-position: absolute;
 
-}
-
-.adopciaWrapper{
-
-    width: 1600px;
-    height: 731px;
-    /* border: 1px red solid; */
-    margin-left: 0px;
-    position: relative;
-
-}
-
-#adopciaText{
-    position: absolute;
-    margin: 0 auto;
-    width: 630px;
-    /* width: 40%; */
-    height: 100%;
-    /* background-color: red; */
-    margin-left: 968px;
-    
-}
-
-#adopciaText > p {
-    font-size: 30px;
-    padding-left: 150px;
-    padding-right: 60px;
-    padding-bottom: 15px;
-    text-align: justify;
-
-    
-}
-
-#adopciaText > img{
-    display: inline;
-    /* background-color: green; */
-    position: absolute;
-    transform: scale(1.5);
-    margin-top: 30px;
-    margin-left: -18px;
-    padding: 6px;
-    border: 5px orangered solid;
-}
-
-
-
-#nadpisAdopcia{
-    text-align: left;
-    color: rgb(0, 0, 0);
-    display: block;
-    /* border: 1px red solid; */
-    padding-top: 10px;
-    padding-left: 185px;
-    font-size: 60px;
-    margin-top: 20px;
-}
 
 
 
@@ -291,13 +229,7 @@ position: absolute;
     
 }
 
-.adopcia{
-    width: 100%;
-    height: 741px;
-    background-color: white;
-    border-bottom: 10px orangered solid;
-    position: relative;
-}
+
 
 .zaobalovacMenu{
     width: 100%;
@@ -606,3 +538,81 @@ position: absolute;
   from {opacity: .4}
   to {opacity: 1}
 }
+
+
+/* SEKCIA ADOPCIA **********************************************************************************************************************************/
+
+.adopcia{
+    width: 100%;
+    height: 741px;
+    background-color: white;
+    border-bottom: 10px orangered solid;
+    position: relative;
+}
+
+#adopciaImg{
+    background-image: url(./img/lovely2.jpg);
+    width: 760px;
+    height: 731px;
+    float: left;
+    position: absolute;
+    }
+    
+    .adopciaWrapper{
+    
+        /* max-width: 1600px; */
+        max-width: 1910px;
+        min-width: 1400px;
+        height: 731px;
+        /* border: 1px red solid; */
+        position: relative;
+        margin: 0 auto;
+        
+    
+    }
+    
+    #adopciaText{
+        position: absolute;
+        margin: 0 auto;
+        width: 630px;
+        /* background-color: red; */
+        margin-left: 900px;
+        width: 40%;
+        
+    }
+    
+    #adopciaText > p {
+        font-size: 15PX;
+        padding-left: 166px;
+        padding-right: 100px;
+        padding-bottom: 85px;
+        padding-top: 10px;
+        text-align: justify;
+
+    
+        
+    }
+    
+    #adopciaText > img{
+        display: inline;
+        /* background-color: green; */
+        position: absolute;
+        transform: scale(1.5);
+        margin-top: 30px;
+        margin-left: -18px;
+        padding: 6px;
+        border: 5px orangered solid;
+    }
+    
+    
+    
+    #nadpisAdopcia{
+        text-align: left;
+        color: rgb(0, 0, 0);
+        display: block;
+        /* border: 1px red solid; */
+        padding-top: 10px;
+        /* padding-left: 50px; */
+        font-size: 60px;
+        margin-top: 20px;
+    }
