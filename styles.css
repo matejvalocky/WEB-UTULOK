@@ -648,3 +648,33 @@ body{
         background-color: antiquewhite;
         float: right;
     }
+
+    .vencenieWrapperRight1of4{
+        background-color: orange;
+    }
+
+    .vencenieWrapperRight2of4{
+        background-color: green;
+    }
+
+    .vencenieWrapperRight3of4{
+        background-color: #389cfc;
+    }
+
+    .vencenieWrapperRight4of4{
+        background-color: aquamarine;
+    }
+
+    .floatRight{
+        float: right;
+    }
+
+    .floatLeft{
+        float: left;
+    }
+
+    .sizeOfVencenie{
+        width: 276px;
+        height: 276px;
+
+    }
