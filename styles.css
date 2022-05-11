@@ -627,7 +627,7 @@ body{
     }
 
     .vencenieWrapper{
-        width: 1150px;
+        width: 1200px;
         height: 565px;
         margin: 0 auto;
         background-color: grey;
@@ -643,7 +643,7 @@ body{
     }
 
     .vencenieWrapperRight{
-        width: 550px;
+        width: 570px;
         height: 565px;
         background-color: antiquewhite;
         float: right;
@@ -651,6 +651,8 @@ body{
 
     .vencenieWrapperRight1of4{
         background-color: orange;
+        margin-left: 5px;
+        margin-right: 5px;
     }
 
     .vencenieWrapperRight2of4{
@@ -659,10 +661,16 @@ body{
 
     .vencenieWrapperRight3of4{
         background-color: #389cfc;
+        margin-left: 5px;
+        margin-top: 5px;
+        margin-right: 5px;
+        
     }
 
     .vencenieWrapperRight4of4{
         background-color: aquamarine;
+        margin-top: 5px;
+        
     }
 
     .floatRight{
@@ -674,7 +682,6 @@ body{
     }
 
     .sizeOfVencenie{
-        width: 274px;
-        height: 274px;
-
+        width: 280px;
+        height: 280px;
     }
