@@ -637,7 +637,8 @@ body{
     .vencenieWrapperLeft{
         width: 550px;
         height: 565px;
-        background-color: #1084fc;
+        background-image: url(./img/vencenie.jpg);
+        background-size: cover;
         float: left;
     }
 
