@@ -622,5 +622,28 @@ body{
         width: 100%;
         height: 705px;
         background-color: white;
-        
+        border: 1px greenyellow solid;
+
+    }
+
+    .vencenieWrapper{
+        width: 1150px;
+        height: 565px;
+        margin: 0 auto;
+        background-color: grey;
+
+    }
+
+    .vencenieWrapperLeft{
+        width: 550px;
+        height: 565px;
+        background-color: #1084fc;
+        float: left;
+    }
+
+    .vencenieWrapperRight{
+        width: 550px;
+        height: 565px;
+        background-color: antiquewhite;
+        float: right;
     }
