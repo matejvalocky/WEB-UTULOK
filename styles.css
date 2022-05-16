@@ -146,11 +146,12 @@ body{
 .aboutImg0 {
     width: 600px;
     height: 316px;
-    background-image: url(./img/dog-nature.JPG);
+    background-image: url(./img/jack-russel.jpg);
     position: absolute;
     margin-top: -5px;
     margin-left: 0px;
     border: 10px solid #389cfc;
+    
 }
 
 .aboutImg1{
