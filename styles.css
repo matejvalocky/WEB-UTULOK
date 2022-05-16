@@ -732,7 +732,6 @@ body{
 
 .pravidlaVenceniaWrapper{
     width: 1140px;
-    height: 1100px;
     margin: 0 auto;
     background-color: #E0E5EB;
 }
@@ -740,8 +739,6 @@ body{
 #nadpisPravidlaVencenia {
     text-align: left;
     color: rgb(0, 0, 0);
-    display: block;
-    /* border: 1px red solid; */
     padding-top: 50px;
     font-size: 60px;
     padding-left: -9px;
