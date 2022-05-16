@@ -734,7 +734,7 @@ body{
     width: 1140px;
     height: 1100px;
     margin: 0 auto;
-    background-color: #E0E5EB;
+    background-color: #5c7592;
 }
 
 #nadpisPravidlaVencenia {
@@ -744,7 +744,15 @@ body{
     /* border: 1px red solid; */
     padding-top: 50px;
     font-size: 60px;
-    padding-left: 120px;
+    padding-left: -9px;
     font-weight: bold;
+}
+
+.pravidlaImg1 {
+    background-image: url(./img/pravidla-vencenia/dog-walking.jpg);
+    width: 520px;
+    height: 400px;
+    margin-left: 617px;
+    margin-top: -8px;
 }
 
