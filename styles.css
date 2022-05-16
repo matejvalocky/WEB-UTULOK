@@ -722,7 +722,7 @@ body{
     .vencenieWrapperRight4of4 a {
         color: white;
     }
-/*SEKCIA OBRAZKOV 2 ************************************************************************************************************************************/
+/*SEKCIA PRAVIDLA VENCENIA ************************************************************************************************************************************/
 
 .pravidlaVencenia{
     width: 100%;
@@ -735,5 +735,16 @@ body{
     height: 1100px;
     margin: 0 auto;
     background-color: antiquewhite;
+}
+
+#nadpisPravidlaVencenia {
+    text-align: left;
+    color: rgb(0, 0, 0);
+    display: block;
+    /* border: 1px red solid; */
+    padding-top: 50px;
+    font-size: 60px;
+    padding-left: 120px;
+    font-weight: bold;
 }
 
