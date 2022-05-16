@@ -707,3 +707,17 @@ body{
         padding: 30px;
         padding-top: 10px;
     }
+
+    .vencenieWrapperRight a{
+        
+        color: black;
+    }
+
+    .vencenieWrapperRight1of4 a {
+        color: white;
+    }
+
+    .vencenieWrapperRight4of4 a {
+        color: white;
+    }
+  
