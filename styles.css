@@ -727,14 +727,14 @@ body{
 .pravidlaVencenia{
     width: 100%;
     height: 1100px;
-    background-color: #717171;
+    background-color: #E0E5EB;
 }
 
 .pravidlaVenceniaWrapper{
     width: 1140px;
     height: 1100px;
     margin: 0 auto;
-    background-color: antiquewhite;
+    background-color: #E0E5EB;
 }
 
 #nadpisPravidlaVencenia {
