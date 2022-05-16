@@ -228,10 +228,11 @@ body{
     height: 700px;
     border-bottom: #389cfc 10px solid;
     border-top: 10px orangered solid;
-    background-image: url(./img/backgound-dog-png.png);
+    background-image: url(./img/happy-dog.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
+    
     
     
     
