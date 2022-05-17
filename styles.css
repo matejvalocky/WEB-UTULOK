@@ -515,17 +515,14 @@ body{
     background-image: url(./img/lovely2.jpg);
     width: 760px;
     height: 731px;
-    float: left;
     position: absolute;
     }
     
     .adopciaWrapper{
     
-        /* max-width: 1600px; */
         max-width: 2000px;
-        min-width: 1400px;
+        min-width: 1200px;
         height: 731px;
-        /* border: 1px red solid; */
         position: relative;
         margin: 0 auto;
         
@@ -537,14 +534,15 @@ body{
         margin: 0 auto;
         /* background-color: red; */
         margin-left: 900px;
-        max-width: 290px;
+        /* max-width: 290px; */
         
         
     }
     
     #adopciaText > p {
-        font-size: 17px;
-        padding: 25px 20px 8px 5px;
+        font-size: 18px;
+        font-weight: bold;
+        padding: 30px 30px 70px 5px;
         text-align: justify;
     }
     
