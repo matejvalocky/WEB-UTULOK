@@ -516,6 +516,9 @@ body{
     width: 760px;
     height: 731px;
     position: absolute;
+    padding-right: 10px;
+    float: left;
+    
     }
     
     .adopciaWrapper{
@@ -531,22 +534,17 @@ body{
     
     #adopciaText{
         position: absolute;
-        margin: 0 auto;
-        /* background-color: red; */
         margin-left: 900px;
-        /* max-width: 290px; */
-        
-        
     }
     
-    #adopciaText > p {
+    .adopciaTextAndImg > p {
         font-size: 18px;
-        font-weight: bold;
+        /* font-weight: bold; */
         padding: 30px 30px 70px 5px;
         text-align: justify;
     }
     
-    #adopciaText > img{
+    .adopciaTextAndImg > img{
         display: inline;
         /* background-color: green; */
         position: absolute;
@@ -570,6 +568,28 @@ body{
         margin-top: 20px;
         margin-left: -139px;
     }
+
+    .adopciaTextAndImg{
+        width: 290px;
+        height: 150px;
+        /* background-color: #c0c0c0; */
+    }
+
+    .adopciaLeftSide{
+       width: 950px;
+        
+    }
+
+    .adopciaRightSide{
+        width: 1000px;
+        
+        
+        
+    }
+
+   
+
+  
 
 
 /*SEKCIA VENCENIE ************************************************************************************************************************************/
