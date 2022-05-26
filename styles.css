@@ -773,3 +773,33 @@ body{
     overflow: hidden;
 }
 
+/*SEKCIA PSIKOVIA NA ADOPCIU ************************************************************************************************************************************/
+
+.psikovia{
+    width: 100%;
+    height: 750px;
+    background-color: aquamarine;
+}
+
+.psikoviaWrapper{
+    width: 1140px;
+    height: 100%;
+    background-color: red;
+    margin: 0 auto;
+    position: relative;
+}
+
+.psikoviaLeftHalf{
+    background-color: #717171;
+    width: 570px;
+    height: 750px;
+    
+
+}
+
+.psikoviaRightHalf{
+    background-color: #E0E5EB;
+    width: 570px;
+    height: 750px;
+    
+}
