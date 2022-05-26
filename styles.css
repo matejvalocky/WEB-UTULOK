@@ -512,12 +512,14 @@ body{
 }
 
 #adopciaImg{
-    background-image: url(./img/lovely2.jpg);
+    background-image: url(./img/lovely3.jpg);
     width: 760px;
-    height: 731px;
+    height: 677px;
     position: absolute;
     padding-right: 10px;
     float: left;
+    margin-top: 27px;
+    border: white 1px solid;
     
     }
     
