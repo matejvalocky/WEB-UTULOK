@@ -523,8 +523,7 @@ body{
     
     .adopciaWrapper{
     
-        max-width: 2000px;
-        min-width: 1200px;
+        width: 1140px;
         height: 731px;
         position: relative;
         margin: 0 auto;
