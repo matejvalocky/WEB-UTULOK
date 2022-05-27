@@ -818,6 +818,7 @@ body{
     background-color: #E0E5EB;
     width: 570px;
     height: 750px;
+    margin-top: 27px;
     
 }
 
@@ -827,4 +828,25 @@ body{
     font-size: 60px;
     padding-left: -9px;
     font-weight: bold;
+}
+
+.sekciaPsikovia{
+    width: 570px;
+    height: 535px;
+    background-color: #F74E02;
+    margin-top: 27px;
+}
+
+.psikovia4x4{
+    width: 132px;
+    height: 132px;
+    background-color: antiquewhite;
+    margin-bottom: 2.2px;
+    margin-left: 2.2px;
+
+}
+
+.pexesoPsikov{
+    width: 539px;
+    margin: 0 auto;
 }
