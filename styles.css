@@ -807,6 +807,30 @@ body{
     height: 535px;
     background-color: #F74E02;
     margin-top: 27px;
+    position: relative;
+}
+
+.sekciaPsikovia h1{
+    font-weight: bold;
+    padding: 55px;
+    color: white;
+    font-size: 35px;
+}
+
+.sekciaPsikovia p {
+    padding-bottom: 12px;
+    padding-left: 55px;
+    padding-right: 55px;
+    font-size: 20px;
+    color: white;
+    text-align: justify;
+}
+
+.sekciaPsikovia img{
+    transform: scale(0.6);
+    padding-left: 34px;
+    margin-top: -41px;
+    position: absolute;
 }
 
 .psikovia4x4{
