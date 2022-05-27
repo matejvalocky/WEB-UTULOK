@@ -794,7 +794,7 @@ body{
 
 .psikovia{
     width: 100%;
-    height: 823px;
+    height: 1150px;
     /* background-color: aquamarine; */
 }
 
@@ -857,4 +857,12 @@ body{
     margin-top: 3px;
    
     /* border: 1px red solid; */
+}
+
+.subscribe{
+    width: 1140px;
+    height: 344px;
+    background-color: #07B4D9;
+    margin-top: 680px;
+    position: absolute;
 }
