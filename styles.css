@@ -104,7 +104,9 @@ body{
 
 
 #aboutSection p{
-    font-size: 30px;
+    font-size: 25px;
+    padding-right: 51px;
+    text-align: justify;
 }
 
 .borderBlue{
@@ -163,7 +165,7 @@ body{
 
 
 .aboutImg2{
-    top: 30px;
+    top: -26px;
     left: 50%;
     background-image: url(./img/retriever.JPG);
     width: 399px;
