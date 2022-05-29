@@ -941,3 +941,21 @@ body{
     text-transform: uppercase;
     color: white;
 }
+
+/*SEKCIA KONTAKT *************************************************************************************************************************************************/
+
+#kontakt{
+    width: 1140px;
+    height: 500px;
+    background-color: #1084fc;
+    margin: 0 auto;
+}
+
+#nadpisKontakt {
+    text-align: left;
+    color: rgb(0, 0, 0);
+    padding-top: 27px;
+    font-size: 60px;
+    padding-left: -9px;
+    font-weight: bold;
+}
