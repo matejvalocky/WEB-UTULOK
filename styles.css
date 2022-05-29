@@ -948,7 +948,7 @@ body{
 #kontakt{
     width: 1140px;
     height: 500px;
-    background-color: #1084fc;
+    /* background-color: #1084fc; */
     margin: 0 auto;
 }
 
@@ -961,13 +961,12 @@ body{
     font-weight: bold;
     width: 570px;
     height: 500px;
-    background-color: grey;
+    /* background-color: grey; */
     float: left;
 }
 
 .kontaktMapa{
     width: 570px;
     height: 500px;
-    background-color: green;
     float: right;
 }
