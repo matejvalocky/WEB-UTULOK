@@ -894,27 +894,7 @@ body{
     color: white;
 }
 
-.inputEmail{
-    width: 440px;
-    height: 60px;
-    font-size: 27px;
-    float: right;
-    position: absolute;
 
-}
 
-.potvrd{
-    position: absolute;
-    width: 130px;
-    height: 60px;
-    float: right;
-    background-color: #F74E02;
-}
 
-.formular{
-    position: relative;
-    margin: 0 auto;
-    background-color: red;
-    width: 570px;
-    height: 60px ;
-}
+
