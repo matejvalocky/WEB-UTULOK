@@ -959,4 +959,15 @@ body{
     font-size: 60px;
     padding-left: -9px;
     font-weight: bold;
+    width: 570px;
+    height: 500px;
+    background-color: grey;
+    float: left;
+}
+
+.kontaktMapa{
+    width: 570px;
+    height: 500px;
+    background-color: green;
+    float: right;
 }
