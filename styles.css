@@ -870,3 +870,51 @@ body{
     margin-top: 680px;
     position: absolute;
 }
+
+.subscribe h1{
+    text-transform: uppercase;
+    color: white;
+    margin: 0 auto;
+    margin-top: 40px;
+    text-align: center;
+    font-size: 45px;
+}
+
+.borderBottom{
+    width: 147px;
+    height: 10px;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.subscribe p{
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+
+.inputEmail{
+    width: 440px;
+    height: 60px;
+    font-size: 27px;
+    float: right;
+    position: absolute;
+
+}
+
+.potvrd{
+    position: absolute;
+    width: 130px;
+    height: 60px;
+    float: right;
+    background-color: #F74E02;
+}
+
+.formular{
+    position: relative;
+    margin: 0 auto;
+    background-color: red;
+    width: 570px;
+    height: 60px ;
+}
