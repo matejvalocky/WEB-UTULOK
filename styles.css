@@ -947,7 +947,7 @@ body{
 
 #kontakt{
     width: 1140px;
-    height: 500px;
+    height: 554px;
     /* background-color: #1084fc; */
     margin: 0 auto;
 }
@@ -986,4 +986,8 @@ body{
 
 .udaje{
     padding-left: 53px;
+}
+
+#googleMap{
+    margin-top: 27px;
 }
