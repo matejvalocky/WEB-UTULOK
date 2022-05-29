@@ -991,3 +991,40 @@ body{
 #googleMap{
     margin-top: 27px;
 }
+
+/* FOOTER***********************************************************************************************************************************************************/
+
+footer{
+    width: 100%;
+    height: 250px;
+    background-color: #333333;
+    
+}
+
+.footerWrapper{
+    width: 1400px;
+    height: 240px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.footerText{
+    color: white;
+    text-align: center;
+    position: absolute;
+    font-size: 15px;
+    padding: 28px 325px;
+    
+}
+
+.footerText2{
+    color: white;
+    font-size: 15px;
+    padding-top: 50px;
+}
+
+.footerText2 a{
+    text-decoration: none;
+    color: rgb(145, 145, 255);
+}
+
