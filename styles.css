@@ -63,6 +63,11 @@ body{
     
 }
 
+#nekupuj:hover{
+    transform: scale(0.5);
+    transition: all ease 1s;
+}
+
 
 
 .zarovnanieStred{
@@ -152,6 +157,8 @@ body{
     
 }
 
+
+
 .aboutImg1{
     width: 400px;
     height: 599px;
@@ -230,12 +237,9 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    
-    
-    
-    
-    
 }
+
+
 
 
 
@@ -340,6 +344,8 @@ body{
 .headerLogo:hover{
     filter: invert(100%);
 }
+
+
 
 .utulokLogo a {
     text-decoration: none;
