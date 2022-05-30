@@ -76,16 +76,22 @@ body{
 
 #about{
     width: 100%;
-    height: 1200px;
+    height: 1180px;
     background-color: #E0E5EB;
     margin: 0 auto;
     position: relative;
     margin-top: 751px;
 }
 
+#about h1{
+    /* color: red; */
+    margin-top: 27px;
+}
+
+
 #aboutSection {
     width: 542px;
-    height: 1194px;
+    height: 1160px;
     background-color: #E0E5EB;
     float: left;
     margin-left: 25%;
