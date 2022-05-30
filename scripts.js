@@ -20,6 +20,8 @@ $(function(){
    $(".headerLogo").hide().fadeIn(500);
    $("#nekupuj").hide().fadeIn(5000);
 
+   $(".slideshow-container").delay(1000).fadeIn(500);
+
 
    
 
