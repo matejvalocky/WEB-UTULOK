@@ -858,10 +858,15 @@ body{
     margin-left: 3px;
     /* border: 1px red solid; */
     box-shadow: 1px 5px 10px lightgrey;
-
-   
-
 }
+
+.psikovia4x4 :hover{
+    transform: scale(1.5);
+    transition: all ease 0.5s;
+}
+
+
+
 
 .pexesoPsikov{
     width: 535px;
