@@ -958,6 +958,7 @@ body{
     height: 554px;
     /* background-color: #1084fc; */
     margin: 0 auto;
+    position: relative;
 }
 
 #nadpisKontakt {
@@ -999,6 +1000,28 @@ body{
 #googleMap{
     margin-top: 27px;
 }
+
+
+
+#arrowUp{
+    position: absolute;
+    margin-left: 1180px;
+    margin-top: 468px;
+}
+
+#arrowUp :hover{
+    transform: scale(1.2);
+    transition: all ease 1s;
+}
+
+#arrowUp :not(hover){
+    transform: scale(1.0);
+    transition: all ease 0.3s;
+}
+
+
+
+
 
 /* FOOTER***********************************************************************************************************************************************************/
 
