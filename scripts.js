@@ -69,7 +69,7 @@ $(".piateMenu").click(function() {
 
 
 
-$("siesteMenu").click(function() {
+$(".siesteMenu").click(function() {
   $('html, body').animate({
       scrollTop: $("#kontakt").offset().top
   }, 2000);
