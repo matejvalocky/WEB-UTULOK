@@ -86,6 +86,7 @@ body{
     margin: 0 auto;
     position: relative;
     margin-top: 751px;
+    
 }
 
 #about h1{
@@ -1070,4 +1071,5 @@ footer{
     color: rgb(145, 145, 255);
 }
 
+/*OPRAVA ZAKRYTEHO BLOKU FIXNYM MENU PRI ODKAZOVANI NA SEKCIU STRANKY*/
 
