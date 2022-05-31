@@ -79,9 +79,15 @@ $(".siesteMenu").click(function() {
 
 $("#arrowUp").click(function() {
   $('html, body').animate({
-      scrollTop: $("body").offset().top
+      scrollTop: $("html").offset().top
   }, 2000);
 });
+
+
+
+
+
+
 
 
 
