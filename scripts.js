@@ -27,7 +27,7 @@ $(function(){
 
    $(".prveMenu").click(function() {
     $('html, body').animate({
-        scrollTop: $("#oUtulku").offset().top
+        scrollTop: $("#oUtulku").offset().top -145
     }, 2000);
 });
 
@@ -36,7 +36,7 @@ $(function(){
 
 $(".druheMenu").click(function() {
   $('html, body').animate({
-      scrollTop: $("#oAdopcii").offset().top
+      scrollTop: $("#oAdopcii").offset().top -135
   }, 2000);
 });
 
@@ -45,7 +45,7 @@ $(".druheMenu").click(function() {
 
 $(".tretieMenu").click(function() {
   $('html, body').animate({
-      scrollTop: $("#vencenie").offset().top
+      scrollTop: $("#vencenie").offset().top -135
   }, 2000);
 });
 
@@ -53,7 +53,7 @@ $(".tretieMenu").click(function() {
 
 $(".stvrteMenu").click(function() {
   $('html, body').animate({
-      scrollTop: $("#pravidla").offset().top
+      scrollTop: $("#pravidla").offset().top -135
   }, 2000);
 });
 
@@ -62,7 +62,7 @@ $(".stvrteMenu").click(function() {
 
 $(".piateMenu").click(function() {
   $('html, body').animate({
-      scrollTop: $("#naAdopciu").offset().top
+      scrollTop: $("#naAdopciu").offset().top -145
   }, 2000);
 });
 
@@ -71,7 +71,7 @@ $(".piateMenu").click(function() {
 
 $(".siesteMenu").click(function() {
   $('html, body').animate({
-      scrollTop: $("#kontakt").offset().top
+      scrollTop: $("#kontakt").offset().top -135
   }, 2000);
 });
 
