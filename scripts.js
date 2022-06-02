@@ -4,9 +4,9 @@ $(function(){
    
    $(".banner").hide().fadeIn(2000);
    
-   $(".aboutImg0").hide().fadeIn(4000);
+  //  $(".aboutImg0").hide().fadeIn(4000);                          
    $(".aboutImg1").hide().fadeIn(5000);
-   $(".aboutImg2").hide().fadeIn(3000);
+  //  $(".aboutImg2").hide().fadeIn(3000);
    $(".aboutImg3").hide().fadeIn(6000);
    $(".prveMenu").hide().fadeIn(500);
    $(".druheMenu").hide().fadeIn(1000);

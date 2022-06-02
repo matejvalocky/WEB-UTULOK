@@ -150,7 +150,7 @@ body{
 .aboutImg0 {
     width: 600px;
     height: 316px;
-    background-image: url(./img/jack-russel.jpg);
+    /* background-image: url(./img/jack-russel.jpg); */
     position: absolute;
     margin-top: -5px;
     margin-left: 0px;
@@ -187,7 +187,7 @@ body{
 .aboutImg2{
     top: -26px;
     left: 50%;
-    background-image: url(./img/retriever.JPG);
+    /* background-image: url(./img/retriever.JPG); */
     width: 399px;
     height: 555px;
     margin-left: 260px;/* half width*/
@@ -619,7 +619,7 @@ body{
     .vencenieWrapperLeft{
         width: 530px;
         height: 530px;
-        background-image: url(./img/vencenie.jpg);
+        /* background-image: url(./img/vencenie.jpg); */
         background-size: cover;
         float: left;
         border: 10px orangered solid;
