@@ -83,6 +83,12 @@ $("#arrowUp").click(function() {
   }, 2000);
 });
 
+$(".utulokLogo").click(function() {
+  $('html, body').animate({
+      scrollTop: $("html").offset().top
+  }, 2000);
+});
+
 
 
 
