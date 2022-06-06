@@ -8,11 +8,13 @@
     <link rel="stylesheet" href="./styles.css">
     <link rel="stylesheet" href="/lightbox-css,js/lightbox.css">
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <script src="scripts.js" defer></script>
+    
     <script
     src="https://code.jquery.com/jquery-3.6.0.min.js"
     integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
     crossorigin="anonymous"></script>
-    <script src="scripts.js" defer></script>
+    <script src="/lightbox-css,js/lightbox.js"></script>
     <script src="http://maps.googleapis.com/maps/api/js"></script>
 	<script src="customGoogleMap.js"></script>
     <link rel="icon" type="image/png" href="./img/utulok-logo.png">
@@ -481,7 +483,15 @@
       });
     </script>
 
-<script src="/lightbox-css,js/lightbox.js"></script>
+
+
+
+<script>
+    lightbox.option({
+      'resizeDuration': 500,
+      'wrapAround': true
+    })
+</script>
 
 
 </body>
