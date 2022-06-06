@@ -866,9 +866,9 @@ body{
 
 .sekciaPsikovia img{
     transform: scale(0.6);
-    padding-left: 34px;
     margin-top: -41px;
     position: absolute;
+    margin-left: 56px;
 }
 
 
