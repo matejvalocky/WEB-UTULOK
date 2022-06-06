@@ -980,7 +980,7 @@ body{
 
 #kontakt{
     width: 1140px;
-    height: 554px;
+    height: 574px;
     /* background-color: #1084fc; */
     margin: 0 auto;
     position: relative;
@@ -1000,9 +1000,10 @@ body{
 }
 
 .kontaktMapa{
+    display: flex;
+    justify-content: center;
     width: 100%;
     height: 500px;
-    float: right;
 }
 
 .udaje h1{
