@@ -1094,6 +1094,12 @@ body{
     
 }
 
+.boxShadow{
+    -webkit-box-shadow: 6px 6px 43px -25px rgba(0,0,0,0.75);
+    -moz-box-shadow: 6px 6px 43px -25px rgba(0,0,0,0.75);
+    box-shadow: 6px 6px 43px -25px rgba(0,0,0,0.75);
+}
+
 
 
 
