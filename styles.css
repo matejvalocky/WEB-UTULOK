@@ -732,7 +732,7 @@ body{
 }
 
 .pravidlaImg1 {
-    background-image: url(./img/pravidla-vencenia/dog-walking.jpg);
+    /* background-image: url(./img/dog-walking.jpg); */
     width: 480px;
     height: 400px;
     margin-left: 657px;
@@ -741,7 +741,7 @@ body{
 }
 
 .pravidlaImg2 {
-    background-image: url(./img/pravidla-vencenia/dog-walking2.jpg);
+    /* background-image: url(./img/dog-walking2.jpg); */
     width: 790px;
     height: 515px;
     margin-top: -160px;
